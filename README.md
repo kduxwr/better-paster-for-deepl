@@ -14,3 +14,8 @@
 
     chrome://extensions/
     
+# Zip
+
+    ```bash
+    zip -r src.zip src
+    ```
