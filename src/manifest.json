@@ -7,8 +7,7 @@
     "homepage_url": "https://github.com/kduxwr/better-paster-for-deepl",
     "permissions": [
         "clipboardRead",
-        "clipboardWrite",
-        "*://*.deepl.com/*"
+        "clipboardWrite"
     ],
     "action": {
         "default_popup": "",
