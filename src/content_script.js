@@ -29,5 +29,4 @@ document.addEventListener('keydown', async event => {
 
 window.onload = async () => {
     const clipboardData = await navigator.clipboard.readText();
-    await navigator.clipboard.writeText(clipboardData);
 }

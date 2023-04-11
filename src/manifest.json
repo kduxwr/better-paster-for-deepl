@@ -6,8 +6,7 @@
     "description": "Automatically removes unwanted line breaks when pasting text into DeepL.",
     "homepage_url": "https://github.com/kduxwr/better-paster-for-deepl",
     "permissions": [
-        "clipboardRead",
-        "clipboardWrite"
+        "clipboardRead"
     ],
     "action": {
         "default_popup": "",
